@@ -1,6 +1,6 @@
 ## Descripción
 
-Objetivo de este challenge del programa de Oracle-Alura Latam, es crear un conversor de divisas y opcionalmente agregarle un conversor de temperaturas
+El objetivo de este challenge del programa de Oracle-Alura Latam, es crear un conversor de divisas y opcionalmente agregarle un conversor de temperaturas
 Para poner en practica todos los conocimientos adquiridos en esta ruta de Back-end con java
 
 ## Funcionalidad
