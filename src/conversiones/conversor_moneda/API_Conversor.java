@@ -53,16 +53,8 @@ public class API_Conversor {
 			intentar_de_nuevo.iniciar();
 		 }
 		 
-  
-	     
-
-	
 		 return valor_final;
-		 
-		 
-		
-		    
-		   
+   
 	 }
 }
 
