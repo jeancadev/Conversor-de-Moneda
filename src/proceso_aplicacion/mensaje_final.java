@@ -22,11 +22,7 @@ public class mensaje_final {
 			 
 	    }
 	 
-	}
-
-				
-			 
-			
+	}		
 }
 	
 
