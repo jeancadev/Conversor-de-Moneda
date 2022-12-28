@@ -41,7 +41,6 @@ public class conversor_moneda {
 			JOptionPane.showMessageDialog(null, "Valor no valido", "Error", JOptionPane.ERROR_MESSAGE);
 			desarrollo intentar_de_nuevo = new desarrollo();
 			intentar_de_nuevo.iniciar();
-
 		}
 
 	}
