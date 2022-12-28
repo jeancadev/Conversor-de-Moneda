@@ -39,7 +39,6 @@ public class conversor_temperatura {
 			intentar_de_nuevo.iniciar();
 
 		}
-
 	}
 
 	public void resultado_conversion(String tipoConvercion, double cantidadGrados) {
